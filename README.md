@@ -1,6 +1,7 @@
 👋 Hi, I'm Janet Chebor!
 🎓 AI Enthusiast | Tech Innovator | Graphic Designer  | Cybersecurity Enthusiast
-Welcome to my GitHub! I'm a passionate African tech professional with a background in Information Technology from African Nazarene University. My journey blends AI, graphic design, and climate action with a love for innovation and problem-solving.
+Welcome to my GitHub! I'm a passionate African tech professional with a background in Information Technology.
+My journey blends AI, graphic design, and climate action with a love for innovation and problem-solving.
 
 🌱 What I’m Working On
 Leveraging AI for climate action in Africa.
